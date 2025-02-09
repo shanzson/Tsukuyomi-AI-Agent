@@ -1,4 +1,8 @@
-# Eliza
+# Tsukuyomi AI Agent - Your Social AI agent
+
+# Info
+- This project has been forked from https://github.com/elizaOS/eliza-starter from commit cdd0c183ed137c34429dc45617e5a79f9a69704a
+- Newly added commits are from 8dd0c706f2fa929c2158e7a377f5099303e1c0e1 (which is after the hackathon started)
 
 ## Edit the character files
 
